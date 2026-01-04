@@ -122,7 +122,7 @@ This section demonstrates:
 
 ---
 
-## 📌 Key Takeaways
+## Key Takeaways
 - Programming choices directly impact reproducibility and scalability
 - Defensive coding is essential when working with real-world data sources
 - Different modelling paradigms serve different analytical goals
@@ -130,6 +130,6 @@ This section demonstrates:
 
 ---
 
-## 👤 Author
+## Author
 **Akbar Jamal Khan**  
 MSc Data Science (Distinction), Durham University
